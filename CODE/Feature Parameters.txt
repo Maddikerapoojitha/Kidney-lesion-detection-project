@@ -1,0 +1,12 @@
+Contrast = 0.268857
+Correlation = 0.947897
+Energy = 0.203788
+Homogeneity = 0.894261
+Mean = 54.561935
+Standard_Deviation = 55.943467
+Entropy = 5.669541
+RMS = 12.957167
+Variance = 2692.495784
+Smoothness = 1.000000
+Kurtosis = 3.474725
+Skewness = 0.970844
